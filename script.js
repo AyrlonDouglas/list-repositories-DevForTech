@@ -1,7 +1,7 @@
 import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
 
 const octokit = new Octokit({
-  auth: "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", // esse token tem validade de 1 ano a contar de 29/08/2022
+  auth: "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", // esse token tem validade de 1 ano a contar de 29/08/2022
 });
 
 const list = document.querySelector(".list-repos");
